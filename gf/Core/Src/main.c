@@ -105,10 +105,12 @@ int main(void)
 	  // f3 feature is here //
 	  __NOP();
 	  // f4 feature is here //
+	  // bug 23 fixed !!!
 	  __NOP();
 	  __NOP();
 	  __NOP();
-	  __NOP();
+	  // pr just a comment to test pull request !!!
+
 
     /* USER CODE BEGIN 3 */
   }

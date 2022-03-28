@@ -97,6 +97,11 @@ int main(void)
 	  __NOP();
 	  // f2 feature is here //
 	  __NOP();
+	  // f2 commit 2 feature is here //
+	  __NOP();
+	  __NOP();
+	  __NOP();
+	  __NOP();
 
     /* USER CODE BEGIN 3 */
   }

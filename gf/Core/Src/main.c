@@ -105,7 +105,7 @@ int main(void)
 	  // f3 feature is here //
 	  __NOP();
 	  // f4 feature is here //
-	  __NOP();
+	  // bug 23 fixed !!!
 	  __NOP();
 	  __NOP();
 	  __NOP();

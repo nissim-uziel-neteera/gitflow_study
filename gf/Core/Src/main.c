@@ -102,6 +102,11 @@ int main(void)
 	  __NOP();
 	  __NOP();
 	  __NOP();
+	  // f4 feature is here //
+	  __NOP();
+	  __NOP();
+	  __NOP();
+	  __NOP();
 
     /* USER CODE BEGIN 3 */
   }
